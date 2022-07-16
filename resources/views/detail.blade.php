@@ -100,6 +100,7 @@ body{
   margin:auto 0;
   background:#4169e1;
   border-radius:5px;
+  z-index: 5;
 }
 
 h1{
